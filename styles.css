@@ -1,3 +1,29 @@
+/* Converted PDF design */
+/* Ensure all content is left-aligned */
+body, div, p, h1, h2, h3, ul, ol, li {
+  text-align: left;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Add some padding for readability */
+div {
+  padding: 10px;
+}
+
+/* Ensure lists are styled properly */
+ul, ol {
+  margin-left: 20px; /* Indent lists */
+}
+
+/* Style Markdown list bullets and numbering */
+li {
+  margin-bottom: 5px;
+}
+
+
+/* UI Design */
 body {
   font-family: Arial, sans-serif;
   margin: 20px;
