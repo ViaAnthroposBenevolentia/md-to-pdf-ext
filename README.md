@@ -33,4 +33,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 - [marked.js](https://github.com/markedjs/marked) for Markdown parsing.
-- [jsPDF](https://github.com/MrRio/jsPDF) for PDF generation.
+- [html2pdf.js](https://github.com/eKoopmans/html2pdf.js) for HTML-to-PDF conversion.
