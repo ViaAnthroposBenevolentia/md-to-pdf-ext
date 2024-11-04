@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  text-align: center;
+}
+
+#drop-area {
+  border: 2px dashed #ccc;
+  padding: 30px;
+  cursor: pointer;
+}
+
+#drop-area.hover {
+  border-color: #333;
+}
+
+#drop-area p {
+  margin: 0;
+}
+
+#fileElem {
+  display: none;
+}
+
+#convert-btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+/* Optional Preview Styling */
+/*
+#preview {
+  margin-top: 20px;
+  text-align: left;
+}
+*/
