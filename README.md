@@ -1,4 +1,4 @@
-# Markdown to PDF Converter Edge Add-on
+# Markdown to PDF Converter Extension
 
 An open-source Microsoft Edge add-on that converts Markdown (.md) files into PDF files directly in your browser.
 
